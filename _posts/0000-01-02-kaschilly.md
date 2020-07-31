@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Welcome to Science Friday on KUNC
 Use the left arrow to go back!
